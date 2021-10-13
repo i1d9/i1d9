@@ -1,3 +1,7 @@
+
+
+[![i1d9's github streak](https://github-readme-streak-stats.herokuapp.com/?user=i1d9&theme=blue-green)](https://github.com/i1d9/)
+
 <center>
   <table>
   <tr>
